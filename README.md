@@ -29,9 +29,7 @@ simulations included in the notebooks.]
 
 ## Usage
 
-Open the desired notebook in Mathematica and evaluate all cells
-(*Evaluation → Evaluate Notebook*). The figures are generated at the end of
-each notebook.
+To plot the figures, open the corresponding notebook and evaluate all cells by clicking on the button Run all. The figures are generated at the end of each notebook.
 
 ## Citation
 
