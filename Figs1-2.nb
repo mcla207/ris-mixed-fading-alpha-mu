@@ -20,7 +20,7 @@ WindowFrame->Normal*)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell["Figure 1", "Title",
+Cell["Figures 1 and 2", "Title",
  CellChangeTimes->{{4.0032483360751476`*^9, 
   4.003248339129133*^9}},ExpressionUUID->"09565e46-8a39-8e4f-b7a6-\
 eb863f0eea9a"],
